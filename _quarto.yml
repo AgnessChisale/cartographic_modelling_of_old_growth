@@ -1,0 +1,5 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - cartographic_modelling_of_old_growth.md
