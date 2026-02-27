@@ -41,7 +41,7 @@ All layers were accessed via the UBC PostgreSQL Server (`FRST-PostgreSQL.ead.ubc
 ## Methods
 Forest inventory data was queried from the UBC PostgreSQL server and filtered to managed crown forests on Vancouver Island. Stands were classified into seral stages (Early, Mid, Mature, Old) using BEC zone-specific age thresholds. Human-disturbed areas were identified and reclassified as Early seral. Old growth area and total forest area were summarized by Landscape Unit and BEC subzone combination, and the percentage of old growth was calculated. A difference field was computed to show how each unit compares to the provincial high old growth threshold, and results were visualized as a graduated colour map.
 
-📄 *For a detailed breakdown of the methodology, [click here](methodology.md)*
+📄 *For a detailed breakdown of the methodology, [click here](https://github.com/AgnessChisale/cartographic_modelling_of_old_growth/blob/main/methodology_project2.md)*
 
 ---
 
