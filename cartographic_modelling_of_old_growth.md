@@ -20,6 +20,7 @@ This project analyses the distribution of old growth forests across Vancouver Is
 ## Data Sources & Tools
 
 **Data**
+
 | Layer | Description | Source |
 |-------|-------------|--------|
 | `vancouver_island_vri` | Vegetation Resource Inventory 2024 | [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset/vri-2024-forest-vegetation-composite-layer-1-l1-) |
@@ -30,6 +31,7 @@ This project analyses the distribution of old growth forests across Vancouver Is
 All layers were accessed via the UBC PostgreSQL Server (`FRST-PostgreSQL.ead.ubc.ca`).
 
 **Tools**
+
 | Tool | Purpose |
 |------|---------|
 | ArcGIS Pro | Spatial analysis, field calculations, and map production |
