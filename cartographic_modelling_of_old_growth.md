@@ -19,7 +19,7 @@ This project analyses the distribution of old growth forests across Vancouver Is
 
 ## Data Sources & Tools
 
-**Data**<br>
+**Data**
 | Layer | Description | Source |
 |-------|-------------|--------|
 | `vancouver_island_vri` | Vegetation Resource Inventory 2024 | [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset/vri-2024-forest-vegetation-composite-layer-1-l1-) |
