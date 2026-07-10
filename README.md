@@ -59,7 +59,7 @@ Forest inventory data was queried from the UBC PostgreSQL server and filtered to
 
 ---
 
-## Skills Learned
+## Techniques
 - Querying a remote PostgreSQL database from ArcGIS Pro using SQL
 - Filtering and exporting spatial layers using Select by Attributes and Pairwise Intersect
 - Writing Python expressions in the ArcGIS Field Calculator
