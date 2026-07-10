@@ -1,6 +1,6 @@
-# Methodology: Project 2 — Cartographic Modelling of Old Growth Forests on Vancouver Island
+# Cartographic Modelling of Old Growth Forests on Vancouver Island
 
-This document contains the detailed step-by-step methodology followed in Project 2.
+ detailed step-by-step methodology.
 
 ---
 
