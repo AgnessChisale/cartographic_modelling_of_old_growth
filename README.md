@@ -1,6 +1,4 @@
-# Project 2: Cartographic Modelling of Old Growth Forests on Vancouver Island
-
-[Github Repo](https://github.com/AgnessChisale/cartographic_modelling_of_old_growth)
+# Cartographic Modelling of Old Growth Forests on Vancouver Island
 
 ## Overview
 This project analyses the distribution of old growth forests across Vancouver Island, British Columbia, using forest inventory data and the BC Cumulative Effects Framework (CEF). The analysis identifies crown forest land, classifies stands by seral stage, and compares calculated old growth percentages against provincial targets by Landscape Unit and BEC subzone. Results are visualized as a cartographic map showing where forests fall short of, meet, or exceed old growth targets.
